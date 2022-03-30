@@ -1,0 +1,5 @@
+com\mycompany\blockchainhw2\Main.class
+com\mycompany\blockchainhw2\Block.class
+com\mycompany\blockchainhw2\BlockHeader.class
+com\mycompany\blockchainhw2\Hash.class
+com\mycompany\blockchainhw2\BlockChain.class
